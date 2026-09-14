@@ -1,3 +1,5 @@
+![Logo](./Xcode_1024x1024x32.png)
+
 # xcode3-tools-ci
 
 Xcode 3.2.6 command line tools, gcc 4.2 and `map_fd`, packaged for the
