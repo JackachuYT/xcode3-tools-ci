@@ -1,4 +1,6 @@
-![Logo](./Xcode_1024x1024x32.png)
+<p align="center">
+  <img src="./Xcode_1024x1024x32.png" alt="Logo" width="200"/>
+</p>
 
 # xcode3-tools-ci
 
